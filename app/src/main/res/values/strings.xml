@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Time Tracker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">IN</string>
+    <string name="date_format">MMMM dd, yyyy</string>
+    <string name="time_format">HH:mm</string>
+    <string name="logout">OUT</string>
+    <string name="sample_date">July 29, 1988</string>
+    <string name="sample_login">In: 09:00</string>
+    <string name="sample_logout">Out: 06:00</string>
+    <string name="action_clear">Clear</string>
+</resources>
